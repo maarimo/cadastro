@@ -82,7 +82,7 @@ src/
 
 **Matheus Amorim**  
 Estudante de Engenharia de Software | Desenvolvedor Java e Mobile  
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/maarimo)
+[LinkedIn](www.linkedin.com/in/matheus-amorim-77206028a) | [GitHub](https://github.com/maarimo)
 
 ---
 
